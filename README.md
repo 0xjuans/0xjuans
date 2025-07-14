@@ -10,6 +10,8 @@
 
 ## 👨‍💻 Sobre Mí
 
+<div align="center">
+
 ```javascript
 const juan = {
     nombre: "Juan Sebastian Quinto Hinestroza",
@@ -24,6 +26,8 @@ const juan = {
     motto: "Convirtiendo café en código desde 2020 ☕️→💻"
 };
 ```
+
+</div>
 
 ### 💡 ¿Qué me impulsa?
 
@@ -71,10 +75,19 @@ const juan = {
 
 ## 📊 GitHub Analytics
 
+### 📈 Estadísticas Principales
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xjuans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+### 🌍 Lenguajes Más Usados
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xjuans&layout=compact&langs_count=8&theme=tokyonight)
 
+### 🔥 Racha de Contribuciones
+
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=0xjuans&theme=tokyonight)
+
+### 📊 Gráfico de Actividad
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xjuans&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
@@ -90,6 +103,8 @@ const juan = {
 ---
 
 ## 🚀 Estado Actual
+
+<div align="center">
 
 ### 💼 Disponibilidad
 ```javascript
@@ -111,9 +126,13 @@ const learning = {
 };
 ```
 
+</div>
+
 ---
 
 ## 💭 Filosofía de Desarrollo
+
+<div align="center">
 
 > *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
 
@@ -132,7 +151,11 @@ const principios = {
 console.log("La vida de un desarrollador: siempre aprendiendo 🚀");
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -142,3 +165,5 @@ console.log("La vida de un desarrollador: siempre aprendiendo 🚀");
 ![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 **✨ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios! ⭐**
+
+</div>
