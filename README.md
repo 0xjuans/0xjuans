@@ -34,11 +34,15 @@
 
 <div align="center">
 
-- 🔥 **Pasión por crear soluciones elegantes y eficientes**
-- 🌱 **Siempre aprendiendo nuevas tecnologías**
-- 🤝 **Colaboración en proyectos innovadores**
-- 📊 **Análisis de datos para tomar mejores decisiones**
-- ⚡ **Optimización y rendimiento en aplicaciones**
+🔥 **Pasión por crear soluciones elegantes y eficientes**
+
+🌱 **Siempre aprendiendo nuevas tecnologías**
+
+🤝 **Colaboración en proyectos innovadores**
+
+📊 **Análisis de datos para tomar mejores decisiones**
+
+⚡ **Optimización y rendimiento en aplicaciones**
 
 </div>
 
@@ -133,10 +137,13 @@
 
 ### 🎨 Actualmente Trabajando En:
 
-- 🔥 **Optimización de Performance** en aplicaciones web
-- 🤖 **Integración de IA** en workflows de desarrollo  
-- 🌐 **APIs REST** con Spring Boot
-- 🔐 **Arquitecturas Seguras** y escalables
+🔥 **Optimización de Performance** en aplicaciones web
+
+🤖 **Integración de IA** en workflows de desarrollo
+
+🌐 **APIs REST** con Spring Boot
+
+🔐 **Arquitecturas Seguras** y escalables
 
 </div>
 
@@ -162,12 +169,20 @@
 ### 😄 La Realidad del Desarrollador
 
 **El Ciclo Infinito:**
+
+<div align="center">
+
 ```
-99 bugs en el código → 
-Arreglas uno → 
-Compilas → 
+99 bugs en el código
+      ↓
+Arreglas uno
+      ↓  
+Compilas
+      ↓
 ¡117 bugs nuevos aparecen! 🐛
 ```
+
+</div>
 
 **Pero esa es la magia del desarrollo:** *Cada bug es una oportunidad de aprender algo nuevo*
 
