@@ -23,15 +23,16 @@ const juan = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ### 💡 ¿Qué me impulsa?
-- 🔥 Pasión por crear soluciones elegantes y eficientes
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- 🤝 Colaboración en proyectos innovadores
-- 📊 Análisis de datos para tomar mejores decisiones
 
-<br clear="right"/>
+<div align="center">
+
+🔥 **Pasión por crear soluciones elegantes y eficientes**  
+🌱 **Siempre aprendiendo nuevas tecnologías**  
+🤝 **Colaboración en proyectos innovadores**  
+📊 **Análisis de datos para tomar mejores decisiones**
+
+</div>
 
 ---
 
@@ -70,6 +71,7 @@ const juan = {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/LMS-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white" alt="LMS" />
 </p>
 
 </div>
@@ -89,21 +91,7 @@ const juan = {
 
 ---
 
-## 🎯 Proyectos Destacados
-
-<div align="center">
-
-| 🌟 Proyecto | 📝 Descripción | 🛠️ Tech Stack |
-|------------|---------------|----------------|
-| 🎓 **LMS Platform** | Sistema de gestión de aprendizaje completo | Laravel + React + MySQL |
-| 📊 **Dashboard Analytics** | Panel de control con visualizaciones dinámicas | Python + Power BI + PostgreSQL |
-| 🛒 **E-commerce Solution** | Plataforma de comercio electrónico escalable | PHP + Bootstrap + MongoDB |
-
-</div>
-
----
-
-## 🌐 Conecta Conmigo
+##  Conecta Conmigo
 
 <div align="center">
 
@@ -125,21 +113,38 @@ const juan = {
 
 ---
 
-### 🎵 Actualmente Escuchando
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tu-usuario-spotify)
+### 🚀 Estado del Desarrollador
+
+<div align="center">
+
+```javascript
+const statusDeveloper = {
+    status: "🟢 Disponible para nuevos proyectos",
+    currentFocus: "Desarrollando aplicaciones Full Stack",
+    learningNow: ["React Native", "Docker", "AWS"],
+    coffeeLevel: "☕☕☕ Alto rendimiento",
+    timezone: "🇨🇴 COT (UTC-5)"
+};
+
+console.log("Ready to code! 🚀");
+```
+
+</div>
 
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-### ⚡ Dato Curioso
-```
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
+### 🎯 Filosofía de Código
+```javascript
+const developerWisdom = {
+    rule1: "Primero hazlo funcionar, luego hazlo bonito",
+    rule2: "El mejor código es el que no necesitas escribir",
+    rule3: "Si funciona en tu máquina, funciona en todas... ¿verdad? 😅",
+    realidad: "99 little bugs in the code, 99 little bugs... fix one bug, compile it again, 117 little bugs in the code! 🐛"
+};
+
+console.log("La vida de un desarrollador: ", developerWisdom);
 ```
 
 **¡Gracias por visitar mi perfil! 🚀**
