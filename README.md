@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Sobre Mí
 
-**Desarrollador Full Stack desde Colombia 🇨🇴**
+**Desarrollador Full Stack**
 
-**4+ años transformando ideas en soluciones digitales**
+**+2 años transformando ideas en soluciones digitales**
 
 | Especialidades | Enfoque | Valores |
 |:---:|:---:|:---:|
@@ -101,7 +101,7 @@
 
 | Modalidad | Enfoque Actual | Aprendiendo |
 |:---:|:---:|:---:|
-| 🏠 Remote | 🔄 Full Stack Development | ⚛️ React Native |
+| 🏠 Remote | 🔄 Full Stack Development | 🍃 Spring Boot |
 | 🏢 Presencial | 🚀 Aplicaciones Escalables | 🐳 Docker & DevOps |
 | 🌍 Híbrido | 📊 Data Analytics | ☁️ AWS & Cloud |
 
@@ -109,7 +109,7 @@
 
 - 🔥 **Optimización de Performance** en aplicaciones web
 - 🤖 **Integración de IA** en workflows de desarrollo  
-- 📱 **Apps Móviles** con React Native
+- 🌐 **APIs REST** con Spring Boot
 - 🔐 **Arquitecturas Seguras** y escalables
 
 ---
