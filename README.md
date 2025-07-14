@@ -30,9 +30,9 @@
 
 </div>
 
-### 💡 ¿Qué me impulsa?
-
 <div align="center">
+
+### 💡 ¿Qué me impulsa?
 
 🔥 **Pasión por crear soluciones elegantes y eficientes**
 
@@ -166,25 +166,19 @@
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😄 La Realidad del Desarrollador
+### � Mentalidad de Crecimiento
 
-**El Ciclo Infinito:**
+**Mi Enfoque:**
 
-<div align="center">
+| 🎯 Objetivo | 🛠️ Proceso | 🚀 Resultado |
+|:---:|:---:|:---:|
+| Resolver Problemas | Código Limpio | Soluciones Escalables |
+| Aprendizaje Continuo | Experimentación | Innovación Constante |
+| Colaboración Efectiva | Comunicación Clara | Equipos de Alto Rendimiento |
 
-```
-99 bugs en el código
-      ↓
-Arreglas uno
-      ↓  
-Compilas
-      ↓
-¡117 bugs nuevos aparecen! 🐛
-```
+> *"Cada desafío es una oportunidad disfrazada de problema"*
 
-</div>
-
-**Pero esa es la magia del desarrollo:** *Cada bug es una oportunidad de aprender algo nuevo*
+**✨ Transformando Ideas en Código desde 2022**
 
 </div>
 
