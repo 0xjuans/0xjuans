@@ -10,24 +10,17 @@
 
 ## 👨‍💻 Sobre Mí
 
-<div align="center">
+**Desarrollador Full Stack desde Colombia 🇨🇴**
 
-```javascript
-const juan = {
-    nombre: "Juan Sebastian Quinto Hinestroza",
-    rol: "Desarrollador Full Stack",
-    ubicacion: "🌎 Colombia",
-    experiencia: "4+ años",
-    passion: [
-        "Código limpio", 
-        "Arquitectura escalable", 
-        "Nuevas tecnologías"
-    ],
-    motto: "Convirtiendo café en código desde 2020 ☕️→💻"
-};
-```
+**4+ años transformando ideas en soluciones digitales**
 
-</div>
+| Especialidades | Enfoque | Valores |
+|:---:|:---:|:---:|
+| Frontend & Backend | Código Limpio | Innovación |
+| APIs & Databases | Arquitectura Escalable | Colaboración |
+| DevOps & Cloud | Performance | Aprendizaje Continuo |
+
+**Mi Filosofía:** *"Convertir café en código y problemas en oportunidades"* ☕️ → 💻
 
 ### 💡 ¿Qué me impulsa?
 
@@ -104,58 +97,51 @@ const juan = {
 
 ## 🚀 Estado Actual
 
-<div align="center">
+**🟢 DISPONIBLE PARA NUEVOS PROYECTOS**
 
-### 💼 Disponibilidad
-```javascript
-const status = {
-    disponible: true,
-    proyectos: "Abierto a nuevas oportunidades",
-    enfoque: "Full Stack Development",
-    colaboracion: "Remote/Presencial"
-};
-```
+| Modalidad | Enfoque Actual | Aprendiendo |
+|:---:|:---:|:---:|
+| 🏠 Remote | 🔄 Full Stack Development | ⚛️ React Native |
+| 🏢 Presencial | 🚀 Aplicaciones Escalables | 🐳 Docker & DevOps |
+| 🌍 Híbrido | 📊 Data Analytics | ☁️ AWS & Cloud |
 
-### 📚 Aprendiendo Actualmente
-```javascript
-const learning = {
-    frontend: ["React Native", "Next.js"],
-    backend: ["Docker", "Microservicios"],
-    cloud: ["AWS", "DevOps"],
-    data: ["Machine Learning", "Analytics"]
-};
-```
+### 🎨 Actualmente Trabajando En:
 
-</div>
+- 🔥 **Optimización de Performance** en aplicaciones web
+- 🤖 **Integración de IA** en workflows de desarrollo  
+- 📱 **Apps Móviles** con React Native
+- 🔐 **Arquitecturas Seguras** y escalables
 
 ---
 
 ## 💭 Filosofía de Desarrollo
 
-<div align="center">
+**Principios que me Guían**
+
+| Construcción | Diseño | Evolución |
+|:---:|:---:|:---:|
+| Primero funciona después se embellece | Simple es mejor que complejo | Siempre hay algo nuevo que aprender |
+| ⚡ **Performance First** | 🧩 **Modular Thinking** | 🔄 **Continuous Growth** |
+
+### 🌟 Quote del Día
 
 > *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎯 Principios de Código
+### 😄 La Realidad del Desarrollador
 
-```javascript
-const principios = {
-    calidad: "Primero hazlo funcionar, luego hazlo elegante",
-    simplicidad: "El mejor código es el que no necesitas escribir",
-    realismo: "Si funciona en tu máquina, probablemente funciona... ¿verdad? 😅",
-    humor: "99 bugs en el código, 99 pequeños bugs... arregla uno, compila de nuevo, ¡117 bugs en el código! 🐛"
-};
-
-console.log("La vida de un desarrollador: siempre aprendiendo 🚀");
+**El Ciclo Infinito:**
+```
+99 bugs en el código → 
+Arreglas uno → 
+Compilas → 
+¡117 bugs nuevos aparecen! 🐛
 ```
 
-</div>
+**Pero esa es la magia del desarrollo:** *Cada bug es una oportunidad de aprender algo nuevo*
 
 ---
-
-<div align="center">
 
 ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -165,5 +151,3 @@ console.log("La vida de un desarrollador: siempre aprendiendo 🚀");
 ![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 **✨ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios! ⭐**
-
-</div>
