@@ -1,12 +1,18 @@
 # 🚀 Juan Sebastian Quinto Hinestroza
 
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Creando+soluciones+innovadoras;Transformando+ideas+en+realidad;Apasionado+por+la+tecnología)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xjuans&label=Visitas+al+perfil&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/0xjuans?label=Seguidores&style=social)
 ![Available](https://img.shields.io/badge/Disponible-Para%20proyectos-brightgreen)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 👨‍💻 Sobre Mí
 
@@ -22,7 +28,11 @@
 
 **Mi Filosofía:** *"Convertir café en código y problemas en oportunidades"* ☕️ → 💻
 
+</div>
+
 ### 💡 ¿Qué me impulsa?
+
+<div align="center">
 
 - 🔥 **Pasión por crear soluciones elegantes y eficientes**
 - 🌱 **Siempre aprendiendo nuevas tecnologías**
@@ -30,7 +40,11 @@
 - 📊 **Análisis de datos para tomar mejores decisiones**
 - ⚡ **Optimización y rendimiento en aplicaciones**
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Stack Tecnológico
 
@@ -64,7 +78,11 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
@@ -84,7 +102,11 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xjuans&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Conectemos
 
@@ -93,7 +115,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🚀 Estado Actual
 
@@ -112,7 +138,11 @@
 - 🌐 **APIs REST** con Spring Boot
 - 🔐 **Arquitecturas Seguras** y escalables
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💭 Filosofía de Desarrollo
 
@@ -141,7 +171,11 @@ Compilas →
 
 **Pero esa es la magia del desarrollo:** *Cada bug es una oportunidad de aprender algo nuevo*
 
+</div>
+
 ---
+
+<div align="center">
 
 ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -151,3 +185,5 @@ Compilas →
 ![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 **✨ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios! ⭐**
+
+</div>
