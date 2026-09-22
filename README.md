@@ -1,198 +1,195 @@
-# 🚀 Juan Sebastian Quinto Hinestroza
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Creando+soluciones+innovadoras;Transformando+ideas+en+realidad;Apasionado+por+la+tecnología)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Sebastian%20Quinto&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Bogot%C3%A1,%20Colombia&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xjuans&label=Visitas+al+perfil&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/0xjuans?label=Seguidores&style=social)
-![Available](https://img.shields.io/badge/Disponible-Para%20proyectos-brightgreen)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+MinTIC+%C2%B7+Aprendizaje+Interactivo;React+%C2%B7+Astro+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+Python;Construyendo+plataformas+escalables+para+educaci%C3%B3n+y+datos;Performance+first+%C2%B7+UX+first+%C2%B7+Ship%2FShow%2FAsk)](https://github.com/0xjuans)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Quinto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-quinto/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20trabajo-FF5722?style=flat-square&logo=astro&logoColor=white)](https://github.com/0xjuans)
+[![Email](https://img.shields.io/badge/Email-juans.quintoh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juans.quintoh@gmail.com)
+[![Location](https://img.shields.io/badge/Bogot%C3%A1-Colombia-FCD116?style=flat-square&logo=googlemaps&logoColor=black)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=0xjuans&label=Visitas&color=00d4ff&style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
+### 👨‍💻 Sobre mí
 
-## 👨‍💻 Sobre Mí
+**Desarrollador Full Stack** con **+2 años de experiencia en entornos productivos**, cubriendo el ciclo completo del desarrollo: **frontend (React, Angular)**, **backend (Python, Java, Spring Boot, Laravel)** y **bases de datos relacionales y no relacionales (PostgreSQL, MySQL)**.
 
-**Desarrollador Full Stack**
+Trabajo en equipos ágiles bajo **Scrum**, colaborando con otras áreas técnicas y aportando retroalimentación orientada a la **calidad y mantenibilidad del software**. Uso activo y cotidiano de **herramientas de IA (Claude Code)** integradas en el flujo diario para automatizar tareas, optimizar consultas y documentar procesos técnicos — con una actitud proactiva hacia la mejora continua.
 
-**+2 años transformando ideas en soluciones digitales**
+Formación en **Análisis y Desarrollo de Sistemas (SENA)** y en etapa avanzada de **Ingeniería de Sistemas (Universidad Libre)**.
 
-| Especialidades | Enfoque | Valores |
-|:---:|:---:|:---:|
-| Frontend & Backend | Código Limpio | Innovación |
-| APIs & Databases | Arquitectura Escalable | Colaboración |
-| DevOps & Cloud | Performance | Aprendizaje Continuo |
-
-**Mi Filosofía:** *"Convertir café en código y problemas en oportunidades"* ☕️ → 💻
-
-</div>
-
-<div align="center">
-
-### 💡 ¿Qué me impulsa?
-
-🔥 **Pasión por crear soluciones elegantes y eficientes**
-
-🌱 **Siempre aprendiendo nuevas tecnologías**
-
-🤝 **Colaboración en proyectos innovadores**
-
-📊 **Análisis de datos para tomar mejores decisiones**
-
-⚡ **Optimización y rendimiento en aplicaciones**
-
-</div>
+```yaml
+name:       Juan Sebastián Quinto H.
+role:       Full Stack Developer
+location:   Bogotá, Colombia
+experience: 2+ años en entornos productivos
+frontend:   [ React, Angular, Tailwind, TypeScript ]
+backend:    [ Java, Spring Boot, Spring Security, Python, Laravel ]
+data:       [ PostgreSQL, MySQL, REST, GraphQL, JWT ]
+practices:  [ Clean Code, SOLID, Scrum, CI/CD, Secure Coding ]
+ai_workflow: "Claude Code integrado a diario"
+```
 
 ---
 
+### 🧠 Experiencia
+
+| Rol | Empresa | Periodo | Highlights |
+|---|---|---|---|
+| **Desarrollador Full Stack** | TECSER & Cloud | Feb 2026 — Abr 2026 | Auth con Spring Security + JWT · **-45% latencia** en APIs con caché y Spring Data JPA · Refactor SOLID · Librería de componentes en Angular + Tailwind (**+30% velocidad**) |
+| **Gestor de Sistemas y Programación** | Aprendizaje Interactivo S.A.S. | Mar 2024 — Ene 2026 | APIs con Laravel + MySQL/PostgreSQL · Contenedorización con Docker · Plataforma bootcamp en alianza con **MinTIC Colombia** |
+| **Analista de Sistemas TI** | Servioptica S.A.S. | Oct 2022 — Abr 2023 | Documentación técnica · Monitoreo y seguridad · Análisis de requerimientos |
+
+---
+
+### 🛠️ Stack Tecnológico
+
 <div align="center">
 
-## 🛠️ Stack Tecnológico
+**Frontend**
 
-### 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend Development
+**Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Bases de Datos
+**APIs, Bases de Datos & DevOps**
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Herramientas & DevOps
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
 ---
 
+### 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Plataforma Bootcamp MinTIC**
+Experiencia educativa escalable con foco en arquitectura de información y UX.
+`Astro` `TypeScript` `Tailwind` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+**⚽ BetPredict Pro / CornerPro**
+Predicciones de fútbol con IA — modelo estadístico + LLM.
+`FastAPI` `React` `PostgreSQL` `Docker` `Claude`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Dashboards de BI**
+Paneles interactivos para KPIs y toma de decisiones.
+`Power BI` `DAX` `Data Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+**🏢 Sitios corporativos & SaaS**
+Impulso Tech, Formcraft, Tablero Pro, MovingPets — conversión + accesibilidad.
+`Astro` `Laravel` `React` `GSAP`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub en cifras
+
 <div align="center">
 
-## 📊 GitHub Analytics
+<a href="https://github.com/0xjuans">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xjuans&theme=tokyonight" width="98%" alt="profile summary"/>
+</a>
 
-### 📈 Estadísticas Principales
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xjuans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<a href="https://github.com/0xjuans">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xjuans&theme=tokyonight" width="32%" alt="stats"/>
+</a>
+<a href="https://github.com/0xjuans">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xjuans&theme=tokyonight" width="32%" alt="top language"/>
+</a>
+<a href="https://github.com/0xjuans">
+  <img src="https://streak-stats.demolab.com/?user=0xjuans&theme=tokyonight&hide_border=true&card_width=340" width="32%" alt="streak"/>
+</a>
 
-### 🌍 Lenguajes Más Usados
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xjuans&layout=compact&langs_count=8&theme=tokyonight)
-
-### 🔥 Racha de Contribuciones
-
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=0xjuans&theme=tokyonight)
-
-### 📊 Gráfico de Actividad
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xjuans&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+<a href="https://github.com/0xjuans">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xjuans&theme=tokyonight&utcOffset=-5" width="49%" alt="productive time"/>
+</a>
+<a href="https://github.com/0xjuans">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xjuans&theme=tokyonight" width="49%" alt="repos per language"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+### 🎓 Formación y certificaciones
 
-## 🌐 Conectemos
+- 🎓 **Ingeniería de Sistemas** — Universidad Libre *(2023 – Actual)*
+- 🎓 **Tecnólogo en Análisis y Desarrollo de Sistemas** — SENA *(2021 – 2023)*
+- 🔐 **Google Cybersecurity Professional** — Coursera *(Fundamentos, Riesgos, Redes, Linux/SQL, Amenazas)*
+- 💻 **Formación JavaScript Completa** — Oracle + Alura Latam
+- ☁️ Cursos en AWS, Azure, Power BI, Automatización con Python, Arquitectura de Software
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xjuans)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+---
 
-</div>
+### 💡 Filosofía
+
+> *"Primero funciona, después se embellece."* — mi enfoque diario.
+> *"El código es como el humor: cuando tienes que explicarlo, es malo."* — Cory House
+
+**Principios que aplico:** Performance First · Modular Thinking · Continuous Growth · Ship / Show / Ask.
 
 ---
 
 <div align="center">
 
-## 🚀 Estado Actual
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xjuans/0xjuans/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xjuans/0xjuans/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/0xjuans/0xjuans/output/github-contribution-grid-snake.svg" />
+</picture>
 
-**🟢 DISPONIBLE PARA NUEVOS PROYECTOS**
+### 🤝 Hablemos
 
-| Modalidad | Enfoque Actual | Aprendiendo |
-|:---:|:---:|:---:|
-| 🏠 Remote | 🔄 Full Stack Development | 🍃 Spring Boot |
-| 🏢 Presencial | 🚀 Aplicaciones Escalables | 🐳 Docker & DevOps |
-| 🌍 Híbrido | 📊 Data Analytics | ☁️ AWS & Cloud |
+[![LinkedIn](https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-quinto/)
+[![Gmail](https://img.shields.io/badge/Env%C3%ADame%20un%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juans.quintoh@gmail.com)
 
-### 🎨 Actualmente Trabajando En:
+**🟢 Disponible para proyectos remotos, híbridos o presenciales en Bogotá**
 
-🔥 **Optimización de Performance** en aplicaciones web
-
-🤖 **Integración de IA** en workflows de desarrollo
-
-🌐 **APIs REST** con Spring Boot
-
-🔐 **Arquitecturas Seguras** y escalables
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Filosofía de Desarrollo
-
-**Principios que me Guían**
-
-| Construcción | Diseño | Evolución |
-|:---:|:---:|:---:|
-| Primero funciona después se embellece | Simple es mejor que complejo | Siempre hay algo nuevo que aprender |
-| ⚡ **Performance First** | 🧩 **Modular Thinking** | 🔄 **Continuous Growth** |
-
-### 🌟 Quote del Día
-
-> *"El código es como el humor. Cuando tienes que explicarlo, es malo."* - Cory House
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### � Mentalidad de Crecimiento
-
-**Mi Enfoque:**
-
-| 🎯 Objetivo | 🛠️ Proceso | 🚀 Resultado |
-|:---:|:---:|:---:|
-| Resolver Problemas | Código Limpio | Soluciones Escalables |
-| Aprendizaje Continuo | Experimentación | Innovación Constante |
-| Colaboración Efectiva | Comunicación Clara | Equipos de Alto Rendimiento |
-
-> *"Cada desafío es una oportunidad disfrazada de problema"*
-
-**✨ Transformando Ideas en Código desde 2022**
-
-</div>
-
----
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-## ⭐ ¡Gracias por visitar mi perfil!
-
-![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)
-![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-**✨ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios! ⭐**
+⭐ *Si algo de mi trabajo te suma, una estrella en los repos siempre se agradece.*
 
 </div>
